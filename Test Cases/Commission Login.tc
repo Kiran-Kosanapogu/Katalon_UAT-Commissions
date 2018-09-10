@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Commission Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea96b448-7ddc-4f70-a335-c00fe184b5d3</testCaseGuid>
+   <variable>
+      <defaultValue>'https://biz3-tst.callidusondemand.com/SalesPortal/#!/'</defaultValue>
+      <description></description>
+      <id>2e333e51-f129-44cc-9f09-ead7fe8a0e4d</id>
+      <masked>false</masked>
+      <name>CallidusPortalUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'kikosana@calliduscloud.com'</defaultValue>
+      <description></description>
+      <id>d6a39511-4b97-4349-9635-6e8017dfb8ac</id>
+      <masked>false</masked>
+      <name>CallidusUser</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kiran09@@'</defaultValue>
+      <description></description>
+      <id>d8c5cfaa-be90-436b-8e6a-3fd4b60312fd</id>
+      <masked>false</masked>
+      <name>CallidusPassword</name>
+   </variable>
+</TestCaseEntity>
