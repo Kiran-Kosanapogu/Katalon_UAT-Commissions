@@ -4,7 +4,7 @@
    <name>TestDemo</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-09-10T11:39:22</lastRun>
+   <lastRun>2018-09-11T16:22:35</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -16,23 +16,32 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Commission Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>83f73d78-710f-42af-8553-7441e86c2e81</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Data/User Test Data</testDataId>
+      </testDataLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>2e333e51-f129-44cc-9f09-ead7fe8a0e4d</variableId>
+         <testDataLinkId>83f73d78-710f-42af-8553-7441e86c2e81</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Url</value>
+         <variableId>4c8713f7-dfb4-494a-9ece-d447ec2cd517</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>d6a39511-4b97-4349-9635-6e8017dfb8ac</variableId>
+         <testDataLinkId>83f73d78-710f-42af-8553-7441e86c2e81</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>71b8cdc3-bad4-417a-90b6-bf06ba647473</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>d8c5cfaa-be90-436b-8e6a-3fd4b60312fd</variableId>
+         <testDataLinkId>83f73d78-710f-42af-8553-7441e86c2e81</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>575bb085-19e1-48fc-bce4-1cadc716e45e</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
@@ -58,6 +67,15 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Earning Codes exist in the system</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8a973fdf-fd46-4d9e-aca2-7c019164ee57</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Data/User Test Data</testDataId>
+      </testDataLink>
    </testCaseLink>
    <testCaseLink>
       <guid>9353b722-0b4b-4181-bc51-b69943a90360</guid>
@@ -70,6 +88,15 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/EventTypes exist in the System</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>04f30ea0-8388-415b-9b0c-3bb3b55b3f70</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Data/User Test Data</testDataId>
+      </testDataLink>
    </testCaseLink>
    <testCaseLink>
       <guid>eab3ac48-1ecc-403d-9527-ed68b447cef4</guid>
@@ -136,6 +163,15 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Reason_Codes</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cc603a20-62bb-41ff-8048-89fd14deebdb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Data/User Test Data</testDataId>
+      </testDataLink>
    </testCaseLink>
    <testCaseLink>
       <guid>125ca3ac-ee2c-4ecc-b9db-39ab99ba847f</guid>

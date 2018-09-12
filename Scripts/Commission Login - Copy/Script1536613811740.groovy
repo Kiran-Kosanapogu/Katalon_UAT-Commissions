@@ -19,65 +19,21 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('Commission Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.delay(5)
+WebUI.navigateToUrl(Url)
 
-WebUI.mouseOver(findTestObject('Page_Plan Tab/a_Plan'))
+WebUI.maximizeWindow()
 
-WebUI.delay(3)
+WebUI.setText(findTestObject('Page_Sales Performance Home/input_username'), Username)
 
-WebUI.scrollToElement(findTestObject('Page_Plan Tab/a_Rules'), 4)
+WebUI.setText(findTestObject('Page_Sales Performance Home/input_password'), Password)
 
-WebUI.delay(4)
+WebUI.click(findTestObject('Page_Sales Performance Home/button_Login'))
 
-if(true)
+WebUI.click(findTestObject('Page_Sales Performance Home/span_Sales Performance Home'))
 
-{
+WebUI.click(findTestObject('Page_Sales Performance Home/a_Commissions'))
 
-WebUI.click(findTestObject('Page_Plan Tab/a_Rules'))
-
-WebUI.click(findTestObject('Page_Callidus Cloud Commissions Man/a_Advanced Search'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Page_Callidus Cloud Commissions Man/td_Field Name'))
-
-WebUI.delay(2)
-
-WebUI.scrollToElement(findTestObject('Page_Plan Tab/a_Field_name'), 4)
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Page_Plan Tab/a_Field_name'))
-
-WebUI.click(findTestObject('Page_Callidus Cloud Commissions Man/td_Comparision'))
-
-WebUI.delay(2)
-
-WebUI.scrollToElement(findTestObject('Page_Callidus Cloud Commissions Man/option_Equals'), 2)
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Page_Callidus Cloud Commissions Man/option_Equals'))
-
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('Page_Callidus Cloud Commissions Man/td_Value'), 'CR Territory Booking')
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Page_Callidus Cloud Commissions Man/input_Apply Search'))
-
-println ('Rule exists in System, TESTCASE Pass')
-}
-
-else(false)
-{
-	println ('Rule doesnt exists in system, TESTCASE Fail ')
-}
-
-//not_run: WebUI.acceptAlert()
-
-//not_run: WebUI.callTestCase(findTestCase('Commission Logout'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Page_Callidus Cloud Commissions Man/a_Manage Setup'))
 

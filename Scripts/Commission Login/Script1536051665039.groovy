@@ -21,13 +21,13 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(CallidusPortalUrl)
+WebUI.navigateToUrl(Url)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Page_Sales Performance Home/input_username'), CallidusUser)
+WebUI.setText(findTestObject('Page_Sales Performance Home/input_username'), Username)
 
-WebUI.setText(findTestObject('Page_Sales Performance Home/input_password'), CallidusPassword)
+WebUI.setText(findTestObject('Page_Sales Performance Home/input_password'), Password)
 
 WebUI.click(findTestObject('Page_Sales Performance Home/button_Login'))
 

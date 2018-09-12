@@ -41180,3 +41180,238 @@
   <nestedLevel>0</nestedLevel>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-10T14:57:03</date>
+  <millis>1536616623940</millis>
+  <sequence>88552</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/User Data/User Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:03</date>
+  <millis>1536616623955</millis>
+  <sequence>88553</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:03</date>
+  <millis>1536616623955</millis>
+  <sequence>88554</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\\Users\\kikosana\\Downloads\\UAT_Commission-master (2)\\UAT_Commission-master\\CommissionDemoData.xlsx&amp;apos; and sheet name &amp;apos;PortalPage&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:46</date>
+  <millis>1536616666584</millis>
+  <sequence>88555</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/User Data/User Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:46</date>
+  <millis>1536616666584</millis>
+  <sequence>88556</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:46</date>
+  <millis>1536616666584</millis>
+  <sequence>88557</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\\Users\\kikosana\\Downloads\\UAT_Commission-master (2)\\UAT_Commission-master\\CommissionDemoData.xlsx&amp;apos; and sheet name &amp;apos;PortalPage&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:58</date>
+  <millis>1536616678757</millis>
+  <sequence>88558</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/User Data/User Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:58</date>
+  <millis>1536616678757</millis>
+  <sequence>88559</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T14:57:58</date>
+  <millis>1536616678757</millis>
+  <sequence>88560</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\\Users\\kikosana\\Downloads\\UAT_Commission-master (2)\\UAT_Commission-master\\CommissionDemoData.xlsx&amp;apos; and sheet name &amp;apos;PortalPage&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:28</date>
+  <millis>1536616888416</millis>
+  <sequence>88561</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/User Data/User Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:28</date>
+  <millis>1536616888420</millis>
+  <sequence>88562</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:28</date>
+  <millis>1536616888420</millis>
+  <sequence>88563</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\\Users\\kikosana\\Downloads\\UAT_Commission-master (2)\\UAT_Commission-master\\CommissionDemoData.xlsx&amp;apos; and sheet name &amp;apos;PortalPage&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:44</date>
+  <millis>1536616904004</millis>
+  <sequence>88564</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/User Data/User Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:44</date>
+  <millis>1536616904004</millis>
+  <sequence>88565</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:44</date>
+  <millis>1536616904004</millis>
+  <sequence>88566</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\\Users\\kikosana\\Downloads\\UAT_Commission-master (2)\\UAT_Commission-master\\CommissionDemoData.xlsx&amp;apos; and sheet name &amp;apos;PortalPage&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:57</date>
+  <millis>1536616917672</millis>
+  <sequence>88567</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/User Data/User Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:57</date>
+  <millis>1536616917672</millis>
+  <sequence>88568</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:01:57</date>
+  <millis>1536616917672</millis>
+  <sequence>88569</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\\Users\\kikosana\\Downloads\\UAT_Commission-master (2)\\UAT_Commission-master\\CommissionDemoData.xlsx&amp;apos; and sheet name &amp;apos;PortalPage&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:11:29</date>
+  <millis>1536617489813</millis>
+  <sequence>88600</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2342</thread>
+  <message>Finding test data with id &amp;apos;Data Files/User Data/User Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:11:29</date>
+  <millis>1536617489813</millis>
+  <sequence>88601</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2342</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-10T15:11:29</date>
+  <millis>1536617489813</millis>
+  <sequence>88602</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2342</thread>
+  <message>Reading excel file with source file &amp;apos;C:\\Users\\kikosana\\Downloads\\UAT_Commission-master (2)\\UAT_Commission-master\\CommissionDemoData.xlsx&amp;apos; and sheet name &amp;apos;PortalPage&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
